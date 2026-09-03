@@ -29,3 +29,15 @@ If you want to run this project locally, follow these steps:
    cd NLP_Projects
 
 
+pip install -r requirements.txt
+streamlit run app.py
+
+👨‍💻 Author
+Ahmed Sheta
+
+Hugging Face: AhmedSheta10
+GitHub: yassersheta-cmyk
+
+   
+
+
