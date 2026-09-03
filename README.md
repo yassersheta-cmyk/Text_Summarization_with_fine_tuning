@@ -18,32 +18,32 @@ You can try the live application here: **[https://nlpprojects-dyuij8jwbhhgdhtioz
 2. **Hugging Face Hub:** Hosts the fine-tuned model weights and tokenizer (`AhmedSheta10/my-t5-summarizer`).
 3. **Inference:** Upon running, the app automatically fetches the model from Hugging Face and caches it in memory for fast text summarization.
 
-
-## 💻 Local Installation
+## 🖥️ Local Installation
 
 If you want to run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yassersheta-cmyk/NLP_Projects.git
-   cd NLP_Projects
 
+```bash
+git clone https://github.com/yassersheta-cmyk/NLP_Projects.git
+cd NLP_Projects
+```
 
+2. Install the required dependencies:
 
-2.Install the required dependencies:
-```Bash
+```bash
 pip install -r requirements.txt
+```
 
+3. Run the application:
 
-3.Run the application:
-```Bash
+```bash
 streamlit run app.py
+```
 
+👤 **Author:** Ahmed Sheta
 
-
-👨‍💻 Author: Ahmed Sheta
-
-🌐 Hugging Face: AhmedSheta10 | GitHub: yassersheta-cmyk
+🌐 **Hugging Face:** AhmedSheta10 | **GitHub:** yassersheta-cmyk
 
    
 
