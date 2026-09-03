@@ -30,16 +30,16 @@ If you want to run this project locally, follow these steps:
 
 
 
-
 2.Install the required dependencies:
-
 ```Bash
 pip install -r requirements.txt
 
-3.Run the application:
 
+3.Run the application:
 ```Bash
 streamlit run app.py
+
+
 
 👨‍💻 Author: Ahmed Sheta
 
